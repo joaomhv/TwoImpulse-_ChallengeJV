@@ -1,0 +1,21 @@
+.search{
+    margin: 0 auto;
+    float: none;
+}
+
+.swal-text {
+    font-size: 25px;
+    text-align: center;
+    padding: 15px;
+}
+
+.swal-footer {
+    text-align: center;
+}
+
+.imagem{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
